@@ -1,4 +1,3 @@
-# Exact Diagonalization with Periodic Boundary Conditions (PBC)
 
 # Exact Diagonalization with Periodic Boundary Conditions (PBC)
 
