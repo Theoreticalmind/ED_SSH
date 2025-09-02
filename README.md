@@ -22,4 +22,4 @@ where:
 **Note:**  
 Fermionic sign factors are properly included for the periodic boundary (i.e., when hopping from the last to the first site).
 
----mionic sign factors are included for periodic wrapping.
+---fermionic sign factors are included for periodic wrapping.
