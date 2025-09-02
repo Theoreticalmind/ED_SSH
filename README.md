@@ -1,1 +1,2 @@
-# ED_SSH
+# Exact Diagonalization with Periodic Boundary Conditions (PBC)
+
